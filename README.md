@@ -57,14 +57,17 @@ cd frontend
 npm start
 The application should now be running on http://localhost:3000.
 
-Features
+### Features
 User registration and login.
 Create, read, and interact with social media posts.
 Real-time updates using WebSockets for notifications and new posts.
 Data analytics to display user engagement metrics.
-Folder Structure
+
+### Folder Structure
 The project is organized into two main directories:
 
 backend/: Contains the server code.
+
 frontend/: Contains the client (React) code.
+
 Refer to the folder structure in the project for more details.
