@@ -74,8 +74,8 @@ Data analytics to display user engagement metrics.
 ### Folder Structure
 The project is organized into two main directories:
 
-backend/: Contains the server code.
+backend/: Contains the server code - Controllers, Models and routes
 
-frontend/: Contains the client (React) code.
+frontend/: Contains the client (React) code - Public and src
 
 Refer to the folder structure in the project for more details.
