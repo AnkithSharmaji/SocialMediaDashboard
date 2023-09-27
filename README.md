@@ -39,22 +39,30 @@ Configuration
 Before running the application, make sure to configure the environment variables:
 
 Backend (server.js):
+
 Set up your MongoDB database connection in backend/server.js.
+
 Frontend (frontend/src/index.js):
+
 Replace 'your-api-endpoint' with the actual API endpoint in frontend/src/index.js.
+
 Running the Application
+
 Start the server:
 
 bash
+
 Copy code
 cd backend
 npm start
 Start the client:
 
 bash
+
 Copy code
 cd frontend
 npm start
+
 The application should now be running on http://localhost:3000.
 
 ### Features
