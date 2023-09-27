@@ -1,6 +1,6 @@
 # SocialMediaDashboard
 
-# Social Media Dashboard
+
 
 This is a MERN (MongoDB, Express.js, React.js, Node.js) stack social media dashboard web application. It allows users to create, view, and interact with social media posts.
 
